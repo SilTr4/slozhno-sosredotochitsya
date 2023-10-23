@@ -9,4 +9,39 @@
     Так стили написанные ниже будут иметь больший вес,
     чем стили в медиазапросе предпочтений пользователя
   */
+    --main-color: #FFF1F7;
+    --text-color: #353430;
+    --text-background-color: #FF8DCB;
+    --header-footer-height: 768px;
+    --text-dark-color: #FF0070;
+    --header-background: url(../images/cover-image-light.png);
+    --padding: 20px;
+    --tytle-decription-color: var(--text-color);
+    --section-title-color: var(--text-color);
+    --button-color: var(--text-color);
+    --boolean: none;
+    --title-color: #FFC2E6;
+    --logo_right-padding: 48px;
+    --link-shadow-color: #FF8dcb;
+    --box-hover: rgba(50, 49, 45, 0.40);
+}
+
+@media (preprefers-color-scheme: light) {
+  :root {
+      --main-color: #FFF1F7;
+      --text-color: #353430;
+      --text-background-color: #FF8DCB;
+      --header-footer-height: 768px;
+      --text-dark-color: #FF0070;
+      --header-background: url(../images/cover-image-light.png);
+      --padding: 20px;
+      --tytle-decription-color: var(--text-color);
+      --section-title-color: var(--text-color);
+      --button-color: var(--text-color);
+      --boolean: none;
+      --title-color: #FFC2E6;
+      --logo_right-padding: 48px;
+      --link-shadow-color: #FF8dcb;
+      --box-hover: rgba(50, 49, 45, 0.40);
+  }
 }
