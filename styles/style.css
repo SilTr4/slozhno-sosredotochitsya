@@ -129,7 +129,7 @@
 .header-logo::after {
   content: "";
   position: absolute;
-  border-radius: 50px;
+  border-radius: 50%;
   width: 9px;
   height: 9px;
   background-color: #ff0070;
