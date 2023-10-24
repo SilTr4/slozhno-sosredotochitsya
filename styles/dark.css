@@ -18,7 +18,7 @@
   --header__tytle-decription-color: var(--main-color);
   --section-title-color: var(--text-dark-color);
   --button-color: var(--text-dark-color);
-  --boolean: inline-block;
+  --boolean: block;
   --title-color: #DB00FF;
   --tytle-decription-color: #000028;
   --link-shadow-color: #ff0070;
@@ -35,7 +35,7 @@
   --header__tytle-decription-color: var(--main-color);
   --section-title-color: var(--text-dark-color);
   --button-color: var(--text-dark-color);
-  --boolean: inline-block;
+  --boolean: block;
   --title-color: #DB00FF;
   --tytle-decription-color: #000028;
   --link-shadow-color: #FF0070;
